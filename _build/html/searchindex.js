@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,modul:0,page:0,search:0},titles:["Welcome to \u7f16\u7a0b\u7b14\u8bb0\u2019s documentation!"],titleterms:{"\u7f16\u7a0b\u7b14\u8bb0":0,document:0,indic:0,tabl:0,welcom:0}})
