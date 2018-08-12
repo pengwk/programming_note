@@ -21,6 +21,8 @@ Welcome to 编程笔记's documentation!
 
    测试/Django测试
 
+   算法/排序
+
 Indices and tables
 ==================
 
